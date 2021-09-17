@@ -1,0 +1,169 @@
+html {
+    margin: 0;
+}
+
+body {
+    
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    
+}
+
+hr {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: 500;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #d4ecdd;
+
+}
+
+.top-container h1 {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 4.5rem;
+}
+
+
+.top-container p {
+    font-family: 'Merriweather', serif;
+    color: #66BFBF;
+}
+
+.top-container span {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.middle-container {
+ padding-top: 3.5rem;
+ margin-bottom: 4rem;
+ 
+}
+
+.middle-container h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.middle-container h2 {
+    margin-bottom: 3rem;
+    font-weight: 500;
+    font-size: 1.8rem;
+}
+
+.middle-container p {
+    font-size: 0.8rem;
+    font-weight: 700;
+    line-height: 2;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+}
+
+.profile p {
+    width: 35rem;
+    margin: auto;
+    line-height: 2;
+    font-weight: 700;
+    font-size: .96rem;
+
+}
+
+.skills img {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.skill-row {
+    width: 40rem;
+    margin: auto;
+    margin-bottom: 4rem;
+}
+
+.txt-align-left {
+    text-align: left;
+}
+
+.txt-align-right {
+    text-align: right;
+}
+
+.computer-img {
+    float: left;
+    margin-right: 1.2rem;
+}
+
+.chillies-img {
+    float: right;
+    margin-left: 1.2rem;
+}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    height: 1.5rem;
+    padding: .2rem .4rem .2rem;
+    padding-top: .5rem;
+    text-decoration: none;
+    border-radius: .4rem;
+    background: rgb(102,191,191);
+    background: linear-gradient(180deg, rgba(102,191,191,1) 35%, rgba(49,116,130,1) 100%);
+    margin-top: 2rem;
+}
+
+.bottom-container {
+   background-color: #66BFBF;
+   padding: 3rem 0 3rem;
+   
+}
+
+.bottom-container a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #11999e;
+    margin-right: 3rem;
+    text-decoration: none;
+   
+}
+
+.bottom-container p {
+    color: #fff;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: .9rem;
+    margin-top: 2rem;
+    
+}
